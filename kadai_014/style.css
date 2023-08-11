@@ -1,11 +1,13 @@
+HTML {
+  font-size:20px;
+}
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 20px;
   text-align: center;
 }
 .google-fonts {
  font-family: "josefin Sans", sans-serif;
- font-size: 40px;
+ font-size: 2rem;
 }
 .text-skyblue {
   color: skyblue;
