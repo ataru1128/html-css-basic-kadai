@@ -29,7 +29,7 @@ main {
   flex-basis: 25%;
   padding: 10px 15px;
   margin: 20px 0;
-  align-self: center;
+  text-align: center;
 }
 h2 {
   font-size: 25px;
@@ -69,6 +69,6 @@ a:visited {
       font-size: 25px;
     }
     #parent {
-      display: block;
+      flex-direction:column;
     }
   }
